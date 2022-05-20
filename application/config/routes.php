@@ -50,7 +50,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 
-
 $route = array (
 
     'default_controller'                => 'homepageController',
@@ -149,7 +148,6 @@ $route = array (
     'admin/statusMonth'                 => 'adminController/dashboardChartsMonthStatus',
     'admin/statusMostRequested'         => 'adminController/dashboardChartsMostRequestedDocument',
     'admin/announcement'                => 'adminController/announcementEmailBlast',
-    
     
 );
 
