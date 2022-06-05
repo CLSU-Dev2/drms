@@ -1,0 +1,61 @@
+REQUEST STATUS
+
+0 - Completed
+1 - Pending
+2 - On delivery
+3 - Declined
+4 - Incomplete (no uploaded file)
+5 - incomplete (w/ uploaded file)
+
+6 - Insufficient Payment
+7 - Insufficient Payment Complete
+
+
+STAFF TYPE
+1 - Record-in-charges
+2 - Frontline
+3 - Dean
+
+
+STAFF ACCOUNT STATUS
+0 - Inactive
+1 - Active
+2 - Disabled
+
+
+COURSE STATUS
+0 - Inactive
+1 - Active
+
+
+PAYMENT STATUS
+0 - Request does not require payment
+1 - Payment is not yet uploaded
+
+
+Maintenance Status
+0 - no maintenance
+1 - maintenance
+
+
+Document Type Status
+1 - Certification of Grades
+2 - Certification of Enrollment
+3 - Certification of Units Earned
+4 - Certification of Course Description
+5 - Certification of Graduating with Ranking
+6 - Certification of Graduating with Academic Honors
+7 - Certification of Graduation with GWA
+8 - Certification of Grading System
+9 - Certification of Free Tuition
+10 - Certification of No Issued ID
+11 - Certification of Registration
+12 - Checklist of Completed Grades
+13 - Transcript of Records
+14 - Honorable Dismissal & Transfer Credentials
+15 - Copy of Diploma
+16 - Authentication
+17 - CAV (for DFA)
+18 - CAV (for non-DFA)
+19 - Endorsement Letter
+20 - Others
